@@ -1,0 +1,11 @@
+.content_col_3_item .relatednews
+#header-mobile
+.homepage.more
+*
+span
+a.more
+div,a
+div a
+div>a
+script+link
+input~input
