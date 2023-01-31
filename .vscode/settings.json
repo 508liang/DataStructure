@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "new": "cpp",
+        "ostream": "cpp",
+        "iostream": "cpp",
+        "istream": "cpp",
+        "qmainwindow": "cpp",
+        "stdexcept": "cpp"
+    },
+    "C_Cpp.errorSquiggles": "enabled"
+}

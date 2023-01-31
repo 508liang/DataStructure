@@ -1,0 +1,28 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "C:\\mingw64\\bin\\..\\lib\\gcc\\x86_64-w64-mingw32\\8.1.0\\include",
+                "C:\\mingw64\\bin\\..\\lib\\gcc\\x86_64-w64-mingw32\\8.1.0\\include-fixed",
+                "C:\\mingw64\\bin\\..\\lib\\gcc\\x86_64-w64-mingw32\\8.1.0\\..\\..\\..\\..\\x86_64-w64-mingw32\\include",
+                "C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++",
+                "C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32",
+                "C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward",
+                "D:\\Qt4\\include",
+                "D:/Qt4/include/QtGui"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "compilerPath": "C:\\mingw64\\bin\\gcc.exe",
+            "cStandard": "gnu17",
+            "cppStandard": "gnu++14",
+            "intelliSenseMode": "windows-gcc-x64"
+        }
+    ],
+    "version": 4
+}
